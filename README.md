@@ -1,5 +1,3 @@
 # ChecklistApp
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IAhEffx0JUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </p>
+[![CheckList App](https://img.youtube.com/vi/IAhEffx0JUU/maxresdefault.jpg)](https://youtu.be/IAhEffx0JUU)
